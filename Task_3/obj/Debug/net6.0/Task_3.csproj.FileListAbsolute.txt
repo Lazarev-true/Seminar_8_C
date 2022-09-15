@@ -1,0 +1,15 @@
+I:\Git\Seminar_8\Task_3\bin\Debug\net6.0\Task_3.exe
+I:\Git\Seminar_8\Task_3\bin\Debug\net6.0\Task_3.deps.json
+I:\Git\Seminar_8\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+I:\Git\Seminar_8\Task_3\bin\Debug\net6.0\Task_3.dll
+I:\Git\Seminar_8\Task_3\bin\Debug\net6.0\Task_3.pdb
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.dll
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.pdb
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+I:\Git\Seminar_8\Task_3\obj\Debug\net6.0\ref\Task_3.dll
